@@ -19,7 +19,7 @@
 4. 📊 No hay un impacto significativo en la elección de la versión según la edad.
 5. 🔒 El 81.2% juega versiones "Cracked", mientras que solo el 18.8% utiliza la versión paga.
 6. 👶 Los jugadores más jóvenes tienden a usar más la versión gratuita.
-7. 🎮 El 28.4% de los usuarios de Minecraft tiene su nombre relacionado con su ID en Discord.
+7. 🎮 El 28.4% de los nombres de Minecraft tiene su nombre compuesto con su ID en Discord o viceversa.
 8. ⚖️ En Bedrock, los jugadores utilizan ambas versiones por igual.
 
 ## 📊 Datos Utilizados
